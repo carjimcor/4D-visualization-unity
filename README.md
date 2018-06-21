@@ -16,4 +16,13 @@ Random 4D points
 
 ## Requisites
 
-* Unity 2017.3.1f1 (or maybe more)
+* [Unity 2017.3.1f1](https://unity3d.com/es/get-unity/download/archive) (or maybe more)
+
+This project uses Unity's debug system ['OnDrawGrizmos'](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnDrawGizmos.html) function, which can only be used inside the editor. So there is no point in building the project since that feature can't be used outside the editor.
+
+## Instructions
+
+1. Download the 'PID.7z'.
+2. Extract it.
+3. Open it using Unity.
+4. Hit play on top of the editor.
