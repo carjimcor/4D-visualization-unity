@@ -22,7 +22,7 @@ This project uses Unity's debug system ['OnDrawGrizmos'](https://docs.unity3d.co
 
 ## Instructions
 
-1. Download the 'PID.7z'.
+1. Download 'PID.7z'.
 2. Extract it.
-3. Open it using Unity.
+3. Open the folder as a project using Unity.
 4. Hit play on top of the editor.
