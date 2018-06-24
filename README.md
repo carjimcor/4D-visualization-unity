@@ -16,7 +16,7 @@ On each frame, the big white wireframe box contains a 3D 'slice' of the 4D matri
 
 ## Requisites
 
-* [Unity 2017.3.1f1](https://unity3d.com/es/get-unity/download/archive) (probably works too with newer versions)
+* [Unity 2017.3.1f1](https://unity3d.com/es/get-unity/download/archive) (it probably works with newer versions too)
 
 This project uses Unity's debug system ['OnDrawGrizmos'](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnDrawGizmos.html) function, which can only be used inside the editor. So there is no point in building the project (as an executable game .exe) since that feature can't be used outside the editor.
 
